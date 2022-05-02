@@ -1,6 +1,6 @@
 # Psycho Kart
 > Par Benjamin HAMM et Brice WEBER KLIPFEL
-## Version 0.10
+## V 0.10 - MainMenu
  - Ajout de la scène MainMenu.
  - Ajout d'un background animé.
  - Ajout d'une UI.
